@@ -1,0 +1,15 @@
+.fa-plus{
+    padding: 15px;
+    border-radius: 50%;
+    background-color: aqua;
+    color: white;
+    cursor: pointer;
+}
+
+.plusOutcome{
+    padding: 15px;
+    border-radius: 50%;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    cursor: pointer;
+}
